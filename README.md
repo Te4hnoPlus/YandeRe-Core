@@ -25,5 +25,5 @@ http://your_domain/?page=your_page:arguments
 ### Создание плагинов
 ```
 Процесс создания плагинов аналогичен созданию Java плагинов для Bukkit/Spigot
-Пример плагина в Example.java
+см. plugin example
 ```
