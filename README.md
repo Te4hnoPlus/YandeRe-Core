@@ -1,6 +1,6 @@
 # YandeRe-Core
 Spring Framework and PaperMC in one core
-## Russian
+## Russian / Русский
 ```
 Эта версия ядра PaperMc имеет поддержку Spring Framework
 и несколько полезных утилит для быстрого
